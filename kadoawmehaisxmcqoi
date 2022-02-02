@@ -17,7 +17,7 @@ local function initlua()
 
 Menu.Text("Benzo.lua (STABLE)", "Hello "..username.."!")
 
-local vers = Http.Get("Https://pastebin.com/raw/bHXD56yW")
+local vers = Http.Get("https://raw.githubusercontent.com/awhjASDoWNRfpAWF/EIIOEWifsfkjsefjaiwfaoiwefaf/main/kadoawmehaisxmcqoi")
 
 local ok = ""
 if version == vers then ok = "Version: UP 2 DATE!" else ok = "Version: Developer!" end
